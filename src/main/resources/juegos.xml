@@ -1,0 +1,40 @@
+<juegos>
+    <juego>
+        <titulo>Red Dead Redemption 2</titulo>
+        <plataforma>PC</plataforma>
+        <genero>Aventura</genero>
+        <año>2018</año>
+        <desarrollador>Rockstar Games</desarrollador>
+        <editor>Rockstar Games</editor>
+        <esEdicionEspecial>true</esEdicionEspecial>
+        <estado>Nuevo</estado>
+        <valorEstimado>49.99</valorEstimado>
+        <notas>Incluye mapa y caja metálica</notas>
+    </juego>
+
+    <juego>
+        <titulo>Final Fantasy VII Remake</titulo>
+        <plataforma>PlayStation 5</plataforma>
+        <genero>RPG</genero>
+        <año>2020</año>
+        <desarrollador>Square Enix</desarrollador>
+        <editor>Square Enix</editor>
+        <esEdicionEspecial>false</esEdicionEspecial>
+        <estado>Usado</estado>
+        <valorEstimado>34.50</valorEstimado>
+        <notas>Incluye manual</notas>
+    </juego>
+
+    <juego>
+        <titulo>Cyberpunk 2077</titulo>
+        <plataforma>PC</plataforma>
+        <genero>Acción</genero>
+        <año>2020</año>
+        <desarrollador>CD Projekt Red</desarrollador>
+        <editor>CD Projekt</editor>
+        <esEdicionEspecial>false</esEdicionEspecial>
+        <estado>Nuevo</estado>
+        <valorEstimado>29.90</valorEstimado>
+        <notas>Versión 2.0 actualizada</notas>
+    </juego>
+</juegos>
